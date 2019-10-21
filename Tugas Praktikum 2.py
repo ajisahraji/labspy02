@@ -3,8 +3,8 @@ b = int(input("Masukan bilangan B:"))
 c = int(input("Masukan bilangan C:"))
 
 if a>b and a>c :
-      print(a)
+      print("Bilangan terbesarnya adalah:" ,a)
 elif b>a and b>c :
-      print (b)
+      print ("Bilangan terbesarnya adalah:" ,b)
 elif c>a and c>b   :    
-      print(c)
+      print("Bilangan terbesarnya adalah:" ,c)
